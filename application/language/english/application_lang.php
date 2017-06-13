@@ -611,7 +611,7 @@ $lang['application_direct_debit'] = "Direct Debit";
 $lang['application_registration'] = "Registration";
 $lang['application_register'] = "Register";
 $lang['application_default_client_module_access'] = "Default client module access after registration";
-$lang['application_client_has_no_admins'] = "Client has no admins! Client admins can see all invoices, projects, estimates an subscriptions of this client.";
+$lang['application_client_has_no_admins'] = "Client has no admins! Client admins can see all invoices, projects, estimates and subscriptions of this client.";
 $lang['application_assign_admin'] = "Assign Admin";
 $lang['application_client_admins'] = "Client Admins";
 $lang['application_client_admin'] = "Client Admin";
@@ -760,8 +760,54 @@ $lang['application_task_statistics_for'] = "Task Statistics for";
 $lang['application_this_week'] = "This Week";
 $lang['application_choose_file'] = "Choose File";
 
-$lang['application_recurring_payment'] = "Recurring Payment"; #new
-$lang['application_recurring_frequency'] = "Recurring Frequency"; #new
+$lang['application_recurring_payment'] = "Recurring Payment"; 
+$lang['application_recurring_frequency'] = "Recurring Frequency"; 
+$lang['application_pay_with_ideal'] = "Pay with iDEAL"; 
+$lang['application_iDEAL'] = "iDEAL"; 
+$lang['application_owner_name'] = "Owner Name"; 
+$lang['application_merchant_id'] = "Merchant ID"; 
+$lang['application_enable_iDEAL'] = "Enable iDEAL (works only with EUR currency)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Convert tasks into invoice items"; 
+$lang['application_select_all'] = "Select All"; 
+$lang['application_unselect_all'] = "Unselect All"; 
+$lang['application_select_done_only'] = "Select Completed Tasks"; 
+$lang['application_task_has_been_invoiced'] = "Task has been invoiced"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Task timer must be stopped first!"; 
+$lang['application_unlock_task'] = "Unlock Task"; 
+$lang['application_task_has_been_unlocked'] = "Task has been unlocked!"; 
+$lang['application_task_has_not_been_unlocked'] = "Task has not been unlocked!"; 
+$lang['application_task_already_invoiced'] = "Task has already been invoiced!"; 
+$lang['application_invoiced_tasks'] = "Tasks that are already invoiced"; 
+$lang['application_social_media'] = "Social Media"; 
+$lang['application_timezone'] = "Timezone"; 
+$lang['application_recurring_expense'] = "Recurring Expense"; 
+$lang['application_fullname'] = "Full Name"; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

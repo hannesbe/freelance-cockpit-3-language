@@ -760,3 +760,27 @@ $lang['application_print'] = "Yazdır";
 $lang['application_task_statistics_for'] = "Görev İstatistikleri"; 
 $lang['application_this_week'] = "Bu Hafta"; 
 $lang['application_choose_file'] = "Dosya Seçin"; 
+
+
+$lang['application_recurring_payment'] = "Ödeme Yinelenen"; 
+$lang['application_recurring_frequency'] = "Yinelenen Frekans"; 
+$lang['application_pay_with_ideal'] = "Ödeme için iDEAL"; 
+$lang['application_iDEAL'] = "iDEAL"; 
+$lang['application_owner_name'] = "Sahibinin Adı"; 
+$lang['application_merchant_id'] = "Tüccar KİMLİĞİ"; 
+$lang['application_enable_iDEAL'] = "İDEAL (sadece EURO para birimi ile çalışır)etkinleştir"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Fatura öğeleri görevleri dönüştürmek"; 
+$lang['application_select_all'] = "Tümünü Seç"; 
+$lang['application_unselect_all'] = "Tüm Seçimi Kaldır"; 
+$lang['application_select_done_only'] = "Seçin Tamamlanan Görevler"; 
+$lang['application_task_has_been_invoiced'] = "Görev faturalı olmuştur"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Görev Zamanlayıcı önce durdurulmalı!"; 
+$lang['application_unlock_task'] = "Kilidini Görev"; 
+$lang['application_task_has_been_unlocked'] = "Görev kilidi olmuştur!"; 
+$lang['application_task_has_not_been_unlocked'] = "Görev kilidi olmamıştır."; 
+$lang['application_task_already_invoiced'] = "Görev zaten fatura edilmiş!"; 
+$lang['application_invoiced_tasks'] = "Zaten görevleri faturalı"; 
+$lang['application_social_media'] = "Sosyal Medya"; 
+$lang['application_timezone'] = "Zaman dilimi"; 
+$lang['application_recurring_expense'] = "Yinelenen Gider"; 
+$lang['application_fullname'] = "Tam Adı"; 

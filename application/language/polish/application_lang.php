@@ -764,3 +764,26 @@ $lang['application_task_statistics_for'] = "Dane statystyczne dla zadań";
 $lang['application_this_week'] = "W Tym Tygodniu"; 
 $lang['application_choose_file'] = "Wybrać Plik"; 
 
+
+$lang['application_recurring_payment'] = "Okresowe Płatności"; 
+$lang['application_recurring_frequency'] = "Powtarzające Się Częstotliwość"; 
+$lang['application_pay_with_ideal'] = "Płacą z doskonałą"; 
+$lang['application_iDEAL'] = "ideał"; 
+$lang['application_owner_name'] = "Imię I Nazwisko Właściciela"; 
+$lang['application_merchant_id'] = "ID handlowca"; 
+$lang['application_enable_iDEAL'] = "Zapewnić idealne (działa tylko z euro)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Konwersja zadania w pozycji faktury"; 
+$lang['application_select_all'] = "Wybrać Wszystkie"; 
+$lang['application_unselect_all'] = "Anuluj Wszystkie"; 
+$lang['application_select_done_only'] = "Wybierz Rozwiązane Zadania"; 
+$lang['application_task_has_been_invoiced'] = "Zadanie zostało list przewozowy"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Zegar zadanie musi być zatrzymany!"; 
+$lang['application_unlock_task'] = "Odblokowywanie Zadań"; 
+$lang['application_task_has_been_unlocked'] = "Zadanie zostało odblokowane!"; 
+$lang['application_task_has_not_been_unlocked'] = "Zadanie nie zostało odblokowane!"; 
+$lang['application_task_already_invoiced'] = "Zadanie jest już obciążony!"; 
+$lang['application_invoiced_tasks'] = "Zadania, które zostały już rozliczone"; 
+$lang['application_social_media'] = "Social Media"; 
+$lang['application_timezone'] = "Strefa czasowa"; 
+$lang['application_recurring_expense'] = "Powtarzające Się Wydatki"; 
+$lang['application_fullname'] = "Pełna Nazwa"; 

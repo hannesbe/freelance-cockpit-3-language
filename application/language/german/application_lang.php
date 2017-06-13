@@ -763,3 +763,26 @@ $lang['application_task_statistics_for'] = "Todo Statistik für";
 $lang['application_this_week'] = "Diese Woche"; 
 $lang['application_choose_file'] = "Datei auswählen"; 
 
+
+$lang['application_recurring_payment'] = "Wiederkehrende Zahlung"; 
+$lang['application_recurring_frequency'] = "Wiederkehrende Frequenz"; 
+$lang['application_pay_with_ideal'] = "Mit iDEAL bezahlen"; 
+$lang['application_iDEAL'] = "iDEAL"; 
+$lang['application_owner_name'] = "Besitzer Name"; 
+$lang['application_merchant_id'] = "Besitzer-ID"; 
+$lang['application_enable_iDEAL'] = "Aktivieren Sie iDEAL (funktioniert nur mit EUR-Währung)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Konvertieren von Tasks in Rechnungspositionen"; 
+$lang['application_select_all'] = "Alle auswählen"; 
+$lang['application_unselect_all'] = "Alle abwählen"; 
+$lang['application_select_done_only'] = "Nur abgeschlossene Tasks auswählen"; 
+$lang['application_task_has_been_invoiced'] = "Task wurde in Rechnung gestellt"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Task-timer muss erst gestoppt werden!"; 
+$lang['application_unlock_task'] = "Task entsperren"; 
+$lang['application_task_has_been_unlocked'] = "Task wurde freigeschaltet!"; 
+$lang['application_task_has_not_been_unlocked'] = "Task wurde nicht freigeschaltet!"; 
+$lang['application_task_already_invoiced'] = "Task wurde bereits in Rechnung gestellt!"; 
+$lang['application_invoiced_tasks'] = "Tasks, die Sie bereits in Rechnung gestellt"; 
+$lang['application_social_media'] = "Social Media"; 
+$lang['application_timezone'] = "Zeitzone"; 
+$lang['application_recurring_expense'] = "Wiederkehrende Aufwendung"; 
+$lang['application_fullname'] = "Vollständiger Name"; 

@@ -176,3 +176,11 @@ $lang['messages_save_milestone_success'] = "Jalon a été sauvé!";
 $lang['messages_save_milestone_error'] = "Étape n'a pas été enregistré!"; 
 
 
+
+
+
+
+
+
+
+

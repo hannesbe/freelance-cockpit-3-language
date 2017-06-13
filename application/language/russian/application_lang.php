@@ -757,3 +757,26 @@ $lang['application_this_week'] = "На Этой Неделе";
 $lang['application_choose_file'] = "Выбрать Файл"; 
 
 
+
+$lang['application_recurring_payment'] = "Периодический Платеж"; 
+$lang['application_recurring_frequency'] = "Повторяющаяся Частота"; 
+$lang['application_pay_with_ideal'] = "Платят с идеальной"; 
+$lang['application_iDEAL'] = "идеал"; 
+$lang['application_owner_name'] = "Имя Владельца"; 
+$lang['application_merchant_id'] = "ID мерчанта"; 
+$lang['application_enable_iDEAL'] = "Обеспечить идеальное (работает только с евро)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Преобразование задачи в позиции счета-фактуры"; 
+$lang['application_select_all'] = "Выбрать Все"; 
+$lang['application_unselect_all'] = "Отменить Все"; 
+$lang['application_select_done_only'] = "Выберите Завершенные Задачи"; 
+$lang['application_task_has_been_invoiced'] = "Задача была накладная"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Таймер задача должна быть остановлена!"; 
+$lang['application_unlock_task'] = "Разблокировка Задач"; 
+$lang['application_task_has_been_unlocked'] = "Задача была разблокирована!"; 
+$lang['application_task_has_not_been_unlocked'] = "Задача не была разблокирована!"; 
+$lang['application_task_already_invoiced'] = "Задача уже выставлен счет!"; 
+$lang['application_invoiced_tasks'] = "Задачи, которые уже выставлен счет"; 
+$lang['application_social_media'] = "Социальные Медиа"; 
+$lang['application_timezone'] = "Часовой пояс"; 
+$lang['application_recurring_expense'] = "Повторяющиеся Расходы"; 
+$lang['application_fullname'] = "Полное Название"; 

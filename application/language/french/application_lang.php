@@ -766,3 +766,26 @@ $lang['application_task_statistics_for'] = "La tâche des Statistiques pour";
 $lang['application_this_week'] = "Cette Semaine"; 
 $lang['application_choose_file'] = "Choisissez Fichier"; 
 
+
+$lang['application_recurring_payment'] = "Paiement Récurrent"; 
+$lang['application_recurring_frequency'] = "Récurrent De Fréquence"; 
+$lang['application_pay_with_ideal'] = "Payer avec iDEAL"; 
+$lang['application_iDEAL'] = "idéal"; 
+$lang['application_owner_name'] = "Le Nom Du Propriétaire D'"; 
+$lang['application_merchant_id'] = "ID de commerçant"; 
+$lang['application_enable_iDEAL'] = "Activer idéal (fonctionne uniquement avec EUR devise)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "La tâche convertir en facture éléments"; 
+$lang['application_select_all'] = "Sélectionnez Tous Les"; 
+$lang['application_unselect_all'] = "Désélectionner Tout"; 
+$lang['application_select_done_only'] = "Sélectionnez Les Tâches Terminées"; 
+$lang['application_task_has_been_invoiced'] = "La tâche a été facturé"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Minuteur de tâche doit être arrêté en premier!"; 
+$lang['application_unlock_task'] = "Déverrouiller Tâche"; 
+$lang['application_task_has_been_unlocked'] = "La tâche a été débloqué!"; 
+$lang['application_task_has_not_been_unlocked'] = "La tâche n'a pas été débloqué!"; 
+$lang['application_task_already_invoiced'] = "Tâche a déjà été facturé!"; 
+$lang['application_invoiced_tasks'] = "Les tâches qui sont déjà facturés"; 
+$lang['application_social_media'] = "Les Médias Sociaux"; 
+$lang['application_timezone'] = "Fuseau horaire"; 
+$lang['application_recurring_expense'] = "Des Dépenses Récurrentes"; 
+$lang['application_fullname'] = "Nom Complet"; 

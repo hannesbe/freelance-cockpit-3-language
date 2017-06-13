@@ -764,3 +764,25 @@ $lang['application_this_week'] = "Questa Settimana";
 $lang['application_choose_file'] = "Scegliere File"; 
 
 
+$lang['application_recurring_payment'] = "Pagamenti Ricorrenti"; 
+$lang['application_recurring_frequency'] = "Ricorrenti Di Frequenza"; 
+$lang['application_pay_with_ideal'] = "Pagare con l'ideale"; 
+$lang['application_iDEAL'] = "ideale"; 
+$lang['application_owner_name'] = "Nome Del Proprietario"; 
+$lang['application_merchant_id'] = "ID commerciante"; 
+$lang['application_enable_iDEAL'] = "Attivare ideale (funziona solo con EURO valuta)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "La conversione di attività in fattura elementi"; 
+$lang['application_select_all'] = "Seleziona Tutto"; 
+$lang['application_unselect_all'] = "Deseleziona Tutto"; 
+$lang['application_select_done_only'] = "Selezionare Le Attività Completate"; 
+$lang['application_task_has_been_invoiced'] = "Attività è stata emessa la fattura"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Task timer deve essere fermato prima!"; 
+$lang['application_unlock_task'] = "Sbloccare Attività"; 
+$lang['application_task_has_been_unlocked'] = "Il compito è stato sbloccato!"; 
+$lang['application_task_has_not_been_unlocked'] = "Compito non è stato sbloccato!"; 
+$lang['application_task_already_invoiced'] = "Il compito è già stato fatturato!"; 
+$lang['application_invoiced_tasks'] = "Le attività che sono già fatturate"; 
+$lang['application_social_media'] = "Social Media"; 
+$lang['application_timezone'] = "Fuso orario"; 
+$lang['application_recurring_expense'] = "Spesa Periodica"; 
+$lang['application_fullname'] = "Nome Completo"; 

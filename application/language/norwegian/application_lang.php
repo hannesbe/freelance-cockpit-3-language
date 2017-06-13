@@ -765,3 +765,26 @@ $lang['application_task_statistics_for'] = "Oppgave Statistikk for";
 $lang['application_this_week'] = "Denne Uken"; 
 $lang['application_choose_file'] = "Velg Fil"; 
 
+
+$lang['application_recurring_payment'] = "Periodisk Betaling"; 
+$lang['application_recurring_frequency'] = "Regelmessig Frekvens"; 
+$lang['application_pay_with_ideal'] = "Betale med ideelle"; 
+$lang['application_iDEAL'] = "ideell"; 
+$lang['application_owner_name'] = "Eier Navn"; 
+$lang['application_merchant_id'] = "Merchant ID"; 
+$lang['application_enable_iDEAL'] = "Aktivere ideell (fungerer bare med EUR valuta)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Konvertere oppgaver i faktura elementer"; 
+$lang['application_select_all'] = "Velg Alle"; 
+$lang['application_unselect_all'] = "Fjern Alle Valgte"; 
+$lang['application_select_done_only'] = "Velg Fullførte Oppgaver"; 
+$lang['application_task_has_been_invoiced'] = "Oppgaven har blitt fakturert"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Oppgave timer må stoppes først!"; 
+$lang['application_unlock_task'] = "Låse Oppgave"; 
+$lang['application_task_has_been_unlocked'] = "Oppgaven har blitt låst opp!"; 
+$lang['application_task_has_not_been_unlocked'] = "Oppgaven har ikke blitt låst opp!"; 
+$lang['application_task_already_invoiced'] = "Oppgaven har allerede blitt fakturert!"; 
+$lang['application_invoiced_tasks'] = "Oppgaver som allerede er fakturert"; 
+$lang['application_social_media'] = "Sosiale Medier"; 
+$lang['application_timezone'] = "Tidssone"; 
+$lang['application_recurring_expense'] = "Løpende Kostnader"; 
+$lang['application_fullname'] = "Fullt Navn"; 

@@ -196,3 +196,11 @@ $lang['messages_delete_milestone_error'] = "Веха не был удален!";
 $lang['messages_delete_milestone_success'] = "Вехой был удален!"; 
 $lang['messages_save_milestone_success'] = "Вехой была спасена!"; 
 $lang['messages_save_milestone_error'] = "Веха не был сохранен!"; 
+
+
+
+
+
+
+
+

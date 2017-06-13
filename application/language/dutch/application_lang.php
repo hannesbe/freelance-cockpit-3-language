@@ -1268,3 +1268,26 @@ $lang['application_task_statistics_for'] = "Taak voor de Statistiek";
 $lang['application_this_week'] = "Deze Week"; 
 $lang['application_choose_file'] = "Kies Een Bestand"; 
 
+
+$lang['application_recurring_payment'] = "Terugkerende Betaling"; 
+$lang['application_recurring_frequency'] = "Terugkerende Frequentie"; 
+$lang['application_pay_with_ideal'] = "Betalen met iDEAL"; 
+$lang['application_iDEAL'] = "iDEAL"; 
+$lang['application_owner_name'] = "Naam Eigenaar"; 
+$lang['application_merchant_id'] = "Merchant ID"; 
+$lang['application_enable_iDEAL'] = "Inschakelen iDEAL (werkt alleen met EUR valuta)"; 
+$lang['application_convert_tasks_into_invoice_items'] = "Zetten taken in de factuur items"; 
+$lang['application_select_all'] = "Selecteer Alle"; 
+$lang['application_unselect_all'] = "- Selecteer Alles"; 
+$lang['application_select_done_only'] = "Selecteer Voltooide Taken"; 
+$lang['application_task_has_been_invoiced'] = "Taak is gefactureerd"; 
+$lang['application_task_timer_must_be_stopped_first'] = "Task timer moet worden gestopt!"; 
+$lang['application_unlock_task'] = "Ontgrendelen Taak"; 
+$lang['application_task_has_been_unlocked'] = "Taak is ontgrendeld!"; 
+$lang['application_task_has_not_been_unlocked'] = "Taak niet is unlocked!"; 
+$lang['application_task_already_invoiced'] = "Taak reeds gefactureerde!"; 
+$lang['application_invoiced_tasks'] = "Taken die al zijn gefactureerd"; 
+$lang['application_social_media'] = "Sociale Media"; 
+$lang['application_timezone'] = "Tijdzone"; 
+$lang['application_recurring_expense'] = "Terugkerende Kosten"; 
+$lang['application_fullname'] = "Volledige Naam"; 

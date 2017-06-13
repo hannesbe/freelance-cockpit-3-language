@@ -184,3 +184,11 @@ $lang['messages_save_milestone_success'] = "Milepæl har blitt frelst!";
 $lang['messages_save_milestone_error'] = "Milepæl har ikke blitt frelst!"; 
 
 
+
+
+
+
+
+
+
+
